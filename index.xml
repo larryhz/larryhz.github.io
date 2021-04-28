@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layer Cake</title>
+    <link>https://larryhz.github.io/</link>
+    <description>Recent content on Layer Cake</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Apr 2021 22:13:10 -0700</lastBuildDate>
+    
+	<atom:link href="https://larryhz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing</title>
+      <link>https://larryhz.github.io/posts/mypost/</link>
+      <pubDate>Tue, 27 Apr 2021 22:13:10 -0700</pubDate>
+      
+      <guid>https://larryhz.github.io/posts/mypost/</guid>
+      <description>&lt;p&gt;Introducing layer cake.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
